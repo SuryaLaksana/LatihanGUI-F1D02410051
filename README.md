@@ -28,7 +28,7 @@ Pada bagian event listener, saya menggunakan interface ActionListener dengan sim
 
 Tampilan awal aplikasi:
 
-![Tampilan awal](Screenshot/awal.png)
+![Tampilan awal](Screenshot/Awal.png)
 
 Tampilan validasi saat nama kosong:
 
