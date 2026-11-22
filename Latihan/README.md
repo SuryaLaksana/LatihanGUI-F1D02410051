@@ -38,6 +38,5 @@ Tampilan setelah data disimpan:
 
 ![Setelah data disimpan](Screenshot/Simpan.png)
 
-
 Tampilan setelah data dihapus
-![Setelah data dihapus](Screenshot/Hapus.png)
+![Setelah data disimpan](Screenshot/Hapus.png)
