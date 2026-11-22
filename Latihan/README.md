@@ -1,5 +1,3 @@
-# Latihan GUI Java - Peminjaman Buku
-
 ## Nama: I Gde Surya Laksana Diputra
 ## NIM : F1D02410051
 
@@ -39,4 +37,5 @@ Tampilan setelah data disimpan:
 ![Setelah data disimpan](Screenshot/Simpan.png)
 
 Tampilan setelah data dihapus
+
 ![Setelah data disimpan](Screenshot/Hapus.png)
